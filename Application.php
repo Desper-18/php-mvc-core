@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace desper\phpmvc;
 
 
-use app\core\db\Database;
+use desper\phpmvc\db\Database;
 
 class Application
 {

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace desper\phpmvc\form;
 
 
-use app\core\Model;
+use desper\phpmvc\Model;
 
 class InputField extends BaseField
 {

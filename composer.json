@@ -2,7 +2,7 @@
     "name": "desper/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Desper\\PhpMvcCore\\": "src/"
+            "desper\\phpmvc": "."
         }
     },
     "authors": [

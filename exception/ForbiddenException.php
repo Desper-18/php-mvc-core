@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace desper\phpmvc\exception;
 
 use Exception;
 

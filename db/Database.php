@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace desper\phpmvc\db;
 
 
-use app\core\Application;
+use desper\phpmvc\Application;
 use PDO;
 
 class Database

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace desper\phpmvc;
 
 
 class Request
