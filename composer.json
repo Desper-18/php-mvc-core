@@ -1,0 +1,15 @@
+{
+    "name": "desper/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Desper\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akbar",
+            "email": "mubosha.97@gmail.com"
+        }
+    ],
+    "require": {}
+}
